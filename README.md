@@ -10,6 +10,6 @@ Abbiamo visto qualcosa di particolare che possiamo usare?
 ## SVOLGIMENTO
 
 - ci creiamo un ciclo che va da 1 a 100 numeri
-  - **SE** i numeri sono uguali a 3 e a 5 stampiamo "FizzBuzz"
+  - **SE** i numeri sono multipli a 3 e a 5 stampiamo "FizzBuzz"
   - **ALTRIMENTI** **SE** i numeri sono uguali a 3 stampiamo "Fizz"
   - **ALTRIMENTI** **SE** i numeri sono multipli di 5 stampiamo "Buzz"
