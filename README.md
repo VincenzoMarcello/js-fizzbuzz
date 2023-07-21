@@ -12,4 +12,4 @@ Abbiamo visto qualcosa di particolare che possiamo usare?
 - ci creiamo un ciclo che va da 1 a 100 numeri
   - **SE** i numeri sono multipli di 3 e 5 stampiamo "FizzBuzz"
   - **ALTRIMENTI** **SE** i numeri sono multipli di 3 stampiamo "Fizz"
-  - **ALTRIMENTI** **SE** i numeri sono multipli di 5 stampiamo "Buzz"
+  - **ALTRIMENTI** **SE** i numeri sono multipli di 5 stampiamo "Buzz" -**ALTRIMENTI** stampiamo il numero

@@ -1,0 +1,27 @@
+.bg-general {
+  background-color: #083b4c;
+}
+
+.box {
+  width: 180px;
+  height: 180px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+
+  background-color: #1389b2;
+}
+
+.Fizz {
+  background-color: #0cd6a1;
+}
+
+.Buzz {
+  background-color: #ffd166;
+}
+
+.FizzBuzz {
+  background-color: #f0466f;
+}
