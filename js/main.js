@@ -32,6 +32,15 @@ for (let numero = 1; numero <= 100; numero++) {
   myDiv.classList.add("box");
   myDiv.classList.add(output);
 
+  //* in versione estesa potevamo fare così:
+  // if (output == "FizzBuzz") {
+  //   myDiv.classList.add("FizzBuzz");
+  // } else if (output == "Fizz") {
+  //   myDiv.classList.add("Fizz");
+  // } else if (output == "Buzz") {
+  //   myDiv.classList.add("Buzz");
+  // }
+
   //* aggiungo il contenuto nella l'output nella box
   boxContainer.append(myDiv);
 }
